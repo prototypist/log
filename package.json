@@ -1,0 +1,14 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prototypist/log.git",
+  "author": "prototypist <blx@prototypist.io>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.1"
+  }
+}
